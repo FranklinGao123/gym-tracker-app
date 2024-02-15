@@ -1,1 +1,1 @@
-# gym-tracker-apps
+# gym-tracker-app
